@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatDiplom-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="ChatDiplom-js.jar">
+      <element id="module-output" name="ChatDiplom.jsMain" />
+    </root>
+  </artifact>
+</component>
