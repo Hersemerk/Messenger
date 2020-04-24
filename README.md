@@ -3,4 +3,4 @@
 2) Get from Version Control/Что-то про контроль версий -> нажать
 3) Вставить в URL: https://github.com/Hersemerk/Messenger/. Возможно надо зарегаться на Github
 4) Открыть файл build.gradle
-5) Пролистать файл вниз и нажать на зеленую стрелу рядом с "task run(type: JavaExec, dependsOn: [jvmJar]) {"
+5) Пролистать файл вниз и нажать на зеленую стрелу рядом с "task run(type: JavaExec, dependsOn: [jvmJar]) {". Нажать run/запуск.
